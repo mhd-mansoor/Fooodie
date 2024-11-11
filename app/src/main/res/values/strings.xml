@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fooodie</string>
+    <string name="error_network">Network error: Unable to fetch data. Please check your connection.</string>
+    <string name="error_server">Server error: Something went wrong. Please try again later.</string>
+    <string name="error_no_results">No results found. Please try a different search.</string>
+    <string name="error_generic">Unexpected error occurred. Please try again later.</string>
+    <string name="rating">Rating: %1$s</string>
+    <string name="search">Search</string>
+    <string name="search_for_pizza_or_juice">Search for Pizza or Juice</string>
+    <string name="pizza">Pizza</string>
+</resources>
